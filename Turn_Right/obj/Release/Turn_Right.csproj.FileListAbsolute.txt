@@ -1,0 +1,10 @@
+C:\Users\sky88\source\repos\game01\game01\obj\Release\Turn_Right.csprojAssemblyReference.cache
+C:\Users\sky88\source\repos\game01\game01\obj\Release\Turn_Right.Form1.resources
+C:\Users\sky88\source\repos\game01\game01\obj\Release\Turn_Right.Properties.Resources.resources
+C:\Users\sky88\source\repos\game01\game01\obj\Release\Turn_Right.csproj.GenerateResource.cache
+C:\Users\sky88\source\repos\game01\game01\obj\Release\Turn_Right.csproj.CoreCompileInputs.cache
+C:\Users\sky88\source\repos\game01\game01\bin\Release\Turn_Right.exe.config
+C:\Users\sky88\source\repos\game01\game01\bin\Release\Turn_Right.exe
+C:\Users\sky88\source\repos\game01\game01\bin\Release\Turn_Right.pdb
+C:\Users\sky88\source\repos\game01\game01\obj\Release\Turn_Right.exe
+C:\Users\sky88\source\repos\game01\game01\obj\Release\Turn_Right.pdb
